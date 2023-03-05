@@ -39,5 +39,5 @@ h1, h2, h3, h4, h5, h6, p {
     color: rgb(255, 81, 0);
     border-radius: 10px;
     box-shadow: 2px 2px 5px rgb(136, 136, 136);
-	opacity: 10;
+	opacity: 0,1;
 }
